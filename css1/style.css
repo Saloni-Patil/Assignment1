@@ -1,0 +1,219 @@
+body
+{
+margin: 0px;
+padding: 0px;
+width: 100%;
+}
+
+header
+{
+	width: 100%;
+	height: 160px;
+	background: #23282d;
+}
+
+#top
+{
+	
+	background-color: #d54e21;
+    border-radius: 0 0 4px 4px;
+
+	
+	
+}
+#top p a
+{
+	color: #fff;
+    font-weight: 450;
+    text-shadow: 1px 1px 3px #666;
+	
+	
+	
+}
+
+#top p a:hover
+{
+	cursor:pointer;
+	text-decoration:none;
+	color:white;
+}
+
+.no-gutters
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+	
+	
+}
+
+.row h2
+{
+	color: #b4b9be;
+}
+    
+#search input.text
+{
+	
+    background:white;
+    border: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 305px;
+   height: 30px;
+	font-size: 20px;
+	padding: 3px;
+    float: left;
+    font-size: 12px;
+    outline: none;
+    font-family: "Open Sans", sans-serif;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+	border-bottom:1px solid silver;
+}
+
+.navbar
+{
+	padding:0px;
+
+	
+}
+.nav-link
+{
+	color: silver;
+	font-size:15px;
+}
+.nav-link:hover
+{
+	color: white;
+	font-size:18px;
+}
+
+#navbarContent
+{
+	
+    min-width: 180px;
+position: absolute;
+	  margin: 0;
+    max-width: 75%;
+    background: #23282d;
+    list-style: none;
+    text-align: center;
+    top: 100%;
+    -webkit-transition: left 0.3s;
+    transition: left 0.3s;
+	  z-index: 100000;
+   
+	
+}
+#image-head
+{
+color:	#82878C;
+font-size: 25px;
+line-height:1.5;
+font-weight:300;
+}
+
+
+.image-content
+{
+	position:relative;
+}
+.over 
+{
+
+	margin-top:-35%;
+	
+}
+.parallax {
+ 
+  background-image: url("https://dummyimage.com/1443x773/54f262/0011ff&text=parallex+effect");
+
+  
+  min-height: 500px; 
+
+ 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallex-below p a
+{
+	
+	font-size: 25px;
+    line-height:1.5;
+     font-weight:300;
+}
+#parallex-below p a:hover
+{
+	cursor:pointer;
+	text-decoration:none;
+
+}
+#parallex-b 
+{
+	color:	#82878C;
+	font-size: 25px;
+    line-height:1.5;
+     font-weight:300;
+}
+
+#parallex-bb
+{
+	color:	#040404;
+	font-size: 18px;
+    line-height:1.5;
+     font-weight:400;
+}
+
+.box
+{
+	background-image: url("https://dummyimage.com/1350x400/ff30a2/05dff7&text=Thank+you");
+
+  height: 400px; 
+
+ 
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}
+
+.img-title
+{
+  position: absolute;
+  color: black;
+  
+  left: 0;
+  right: 0;
+  top: 10%;
+  letter-spacing: 3px;
+}
+
+.img-title a
+{
+	color:white;
+}
+.img-title a:hover
+{
+	color:white;
+	cursor:pointer;
+	text-decoration:none;
+}
+.footer
+{
+	border-top: 1px solid #dfdfdf;
+    background-color: #f7f7f7;
+	
+}
+.foot
+{
+	color: #cccccc;
+	font-size: 25px;
+	letter-spacing:2;
+    word-spacing:3;
+     font-weight:500;
+}
+	
